@@ -1,0 +1,1 @@
+waSequential design process, used in software development processes, in which progress is seens as flowing steadily downwards (like a waterfall) through the phase of requirement, design, development and testing.

@@ -1,0 +1,1 @@
+Collection of source code that is used to build a particular software system, application or software component.

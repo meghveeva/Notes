@@ -1,0 +1,1 @@
+Binary Analysis is a form of static application security testing([[SAST]]) based on analysis of a compiled code-base rather than the raw source code. A binary is a machine readable file which can be excuted and run.

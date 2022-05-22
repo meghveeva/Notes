@@ -1,0 +1,1 @@
+Agreement offered by many websites and software development companies by which individuals can receive recognition and compensation for reporting bugs, exploits and vulnerabilities.

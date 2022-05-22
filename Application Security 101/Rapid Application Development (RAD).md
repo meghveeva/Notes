@@ -1,0 +1,1 @@
+Development method that uses minimal planning in favor of rapid prototying. A prototype is equivalent to component of the product.

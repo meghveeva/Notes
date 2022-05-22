@@ -1,0 +1,1 @@
+When a vulnerability exists and the security scanner doesn't detect it. Therefore the user is not notified about the Vulnerability. 

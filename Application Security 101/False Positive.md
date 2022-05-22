@@ -1,0 +1,1 @@
+When a security scanner indicates that a vulnerability exists. for example, SQL injection, While in reality it doesn't exist.
