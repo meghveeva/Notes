@@ -7,8 +7,12 @@
         "id": "f903bb7467801f65",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "01 Application Security Guide for Beginners.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01 Application Security Guide for Beginners.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,5 +88,7 @@
     "collapsed": true
   },
   "active": "f903bb7467801f65",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "01 Application Security Guide for Beginners.md"
+  ]
 }
